@@ -1,7 +1,7 @@
 import cv2
 import os
 
-img = cv2.imread('../../../data/road-signs/approaching-a-pedestrian-crossing.jpg')
+img = cv2.imread('../data/road-signs/approaching-a-pedestrian-crossing.jpg')
 
 if img is None:
     print('ФАЙЛ НЕ НАЙДЕН')
