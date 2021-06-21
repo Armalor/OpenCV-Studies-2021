@@ -1,0 +1,5 @@
+# Каталоги локального характера:
+.idea
+.template
+.ipynb_checkpoints
+workspace.xml
